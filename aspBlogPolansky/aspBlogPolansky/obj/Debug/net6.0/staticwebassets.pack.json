@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\aspBlogPolansky.bundle.scp.css",
+      "PackagePath": "staticwebassets\\aspBlogPolansky.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Fonts\\OFL.txt",
+      "PackagePath": "staticwebassets\\Fonts\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\Snímek obrazovky 2023-11-07 141312.png",
+      "PackagePath": "staticwebassets\\Images\\Snímek obrazovky 2023-11-07 141312.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\cc.png",
+      "PackagePath": "staticwebassets\\Images\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\email.png",
+      "PackagePath": "staticwebassets\\Images\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\frame.jpeg",
+      "PackagePath": "staticwebassets\\Images\\frame.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\hobi_web.jpg",
+      "PackagePath": "staticwebassets\\Images\\hobi_web.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\hobi_web_nahled.jpg",
+      "PackagePath": "staticwebassets\\Images\\hobi_web_nahled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\html.png",
+      "PackagePath": "staticwebassets\\Images\\html.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\ikona.ico",
+      "PackagePath": "staticwebassets\\Images\\ikona.ico"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\java.png",
+      "PackagePath": "staticwebassets\\Images\\java.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\kalkulacka_java.png",
+      "PackagePath": "staticwebassets\\Images\\kalkulacka_java.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\kalkulacka_java_nahled.png",
+      "PackagePath": "staticwebassets\\Images\\kalkulacka_java_nahled.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\kruh.png",
+      "PackagePath": "staticwebassets\\Images\\kruh.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\miny_pascal.png",
+      "PackagePath": "staticwebassets\\Images\\miny_pascal.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\miny_pascal_nahled.png",
+      "PackagePath": "staticwebassets\\Images\\miny_pascal_nahled.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\pascal.png",
+      "PackagePath": "staticwebassets\\Images\\pascal.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\smajl.png",
+      "PackagePath": "staticwebassets\\Images\\smajl.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\snek.png",
+      "PackagePath": "staticwebassets\\Images\\snek.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\vec.jpg",
+      "PackagePath": "staticwebassets\\Images\\vec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\Images\\vek.png",
+      "PackagePath": "staticwebassets\\Images\\vek.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\js\\initTinyMCE.js",
+      "PackagePath": "staticwebassets\\js\\initTinyMCE.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Polan\\OneDrive\\Plocha\\Nu1\\AspBlogPolansky\\aspBlogPolansky\\aspBlogPolansky\\wwwroot\\lib\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.aspBlogPolansky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.aspBlogPolansky.props",
+      "PackagePath": "build\\aspBlogPolansky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.aspBlogPolansky.props",
+      "PackagePath": "buildMultiTargeting\\aspBlogPolansky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.aspBlogPolansky.props",
+      "PackagePath": "buildTransitive\\aspBlogPolansky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
